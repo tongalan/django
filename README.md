@@ -8,3 +8,6 @@ A Python Django Development Tutorial Follow-Along
 <br />
 <br />
 **March 8th 2019**: Added simple blog applications, templates, and used template inheritance.
+<br />
+<br />
+**March 11th 2019**: Added static directory, css, and html.
